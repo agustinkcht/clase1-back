@@ -44,6 +44,8 @@ console.log(persona4)
 persona4.entrenar(20)
 console.log('final del dia:', persona4)
 
+console.log('branch-1')
+
 
 
 
